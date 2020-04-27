@@ -1,0 +1,5 @@
+baseURL = "/"
+title = "My Test Hugo Site"
+languageCode = "en-us"
+
+
